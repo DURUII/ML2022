@@ -3,7 +3,6 @@
 .ipynb_checkpoints
 .idea
 *.pth
-*.ckpt
 *.0
 homework/hw01_Regression/spss.sav
 homework/hw01_Regression/runs/Nov29_15-46-29_duruideMacBook-Air.local/events.out.tfevents.1669707989.duruideMacBook-Air.local.26987.1
