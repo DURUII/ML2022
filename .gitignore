@@ -11,3 +11,15 @@ homework/hw01_Regression/runs/Nov29_15-46-29_duruideMacBook-Air.local/events.out
 *.1
 *.2
 *.3
+homework/hw02_Classification/model.ckpt
+homework/hw02_Classification/libriphone/test_split.txt
+homework/hw02_Classification/libriphone/test_split.txt
+homework/hw02_Classification/libriphone/test_split.txt
+homework/hw02_Classification/libriphone/train_labels.txt
+homework/hw02_Classification/libriphone/train_split.txt
+homework/hw02_Classification/libriphone/train_labels.txt
+homework/hw02_Classification/libriphone/test_split.txt
+application/sin_sim.wav
+application/sin_plx.wav
+application/data/wxf.m4a
+application/data/dr.m4a
