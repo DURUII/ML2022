@@ -4,7 +4,7 @@ This repository contains some toy codes which would be hopefully gathered, modif
 
 Majority follows courses taught by [Hongyi Li](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) at NATIONAL TAIWAN UNIVERSITY.
 
-STAY TUNED!
+STAY TUNED📺! 
 
 ## Dependencies
 details to be specified
