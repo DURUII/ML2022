@@ -1,14 +1,14 @@
-# Reference
-[Mr. P Solver](https://www.youtube.com/c/mrpsolver/videos) , [cs231n](https://cs231n.github.io/python-numpy-tutorial/), [acwing](https://www.acwing.com/activity/)
+# Machine Learning 2022
 
-# Python
- Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a "batteries included" language due to its comprehensive standard library. 
+This repository contains some toy codes which would be hopefully gathered, modified and tested, in order to serve as a milestone, a reminder, and a  detailed guidance in order to sail through the ocean of machine learning. Majority follows courses taught by [Hongyi Li](https://speech.ee.ntu.edu.tw/~hylee/ml/2022-spring.php) at NATIONAL TAIWAN UNIVERSITY.
 
-# Matplotlib
- Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Matplotlib makes easy things easy and hard things possible.
- 
- # Manim
- Manim was originally created by Grant Sanderson as a personal project and for use in his YouTube channel, 3Blue1Brown. As his channel gained popularity, many grew to like the style of his animations and wanted to use manim for their own projects.
- 
- # Pytorch
- PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella.
+## Dependencies
+details to be specified
+
+## Progress
+
+HW1 updated.
+
+## What to come next
+
+Voiceprint Technology
