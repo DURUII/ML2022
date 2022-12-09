@@ -7,7 +7,8 @@ Majority follows courses taught by [Hongyi Li](https://speech.ee.ntu.edu.tw/~hyl
 STAY TUNED📺! 
 
 ## Dependencies
-details to be specified
+
+`pip install -r requirements.txt`
 
 ## Progress
 
